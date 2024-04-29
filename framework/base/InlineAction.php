@@ -26,7 +26,7 @@ class InlineAction extends Action
     /**
      * @var string the controller method that this inline action is associated with
      */
-    public $actionMethod;
+    public sactionMethod;
 
 
     /**
